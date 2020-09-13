@@ -1,3 +1,3 @@
-0x00. Shell, basics
+0x00-shell_basics
 ===
-This is the 0x00. Shell, basics project.
+##### Script description:
