@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$((($BREATH * 15) + ($LOVE + 1)))\n"
+echo "$((($BREATH * 15) + ($LOVE + 1)))\n"
