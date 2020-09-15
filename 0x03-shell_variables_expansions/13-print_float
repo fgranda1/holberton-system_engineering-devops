@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM + 0.00 | bc
+echo -e $NUM + 0.00 "\n" | bc
